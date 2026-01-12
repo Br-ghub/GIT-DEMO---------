@@ -1,3 +1,6 @@
 print("NO (okay, maybe some git practice - remote)")
+print("Sometimes I think about the dream of being a walmart greeter, wait, no I don't")
 print("NO (okay, maybe some git practice - Local)")
+print("Sometimes I realize I want to just play with electronics all day")
 print("Added during merge")
+print("Local end")
