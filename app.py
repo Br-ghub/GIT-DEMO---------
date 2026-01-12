@@ -1,3 +1,7 @@
+print("I like cookies")
 print("NO (okay, maybe some git practice - remote)")
+print("Sometimes I think about how dogs are equal to cats")
 print("NO (okay, maybe some git practice - Local)")
+print("I'm running out of print statements to run")
 print("Added during merge")
+print("Remote end")
